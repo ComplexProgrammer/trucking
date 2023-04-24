@@ -3,6 +3,8 @@
 *.pot
 *.pyc
 __pycache__
+trucking/__pycache__
+home/__pycache__
 db.sqlite3
 media
 

@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-l@nm=tm1trdsxu#y4hlhxwtv0ui8!t*c1jq$xax86@-ub9r*&c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['trucking.uz', 'www.trucking.uz', '127.0.0.1', 'localhost']
 
 
 # Application definition

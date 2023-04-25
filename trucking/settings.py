@@ -130,4 +130,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 if DEBUG:
     SECURE_SSL_REDIRECT = False
 else:
-    SECURE_SSL_REDIRECT = True
+    SECURE_SSL_REDIRECT = False

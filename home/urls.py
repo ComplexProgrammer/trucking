@@ -3,4 +3,5 @@ from home import views
 
 urlpatterns = [
     path('', views.home, name="home"),
+    path('ads.txt/', views.send_adstxt, name='send_adstxt'),
 ]
